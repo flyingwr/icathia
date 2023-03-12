@@ -1,6 +1,6 @@
 ### **Icathia**
 
-Icathia is an asynchronous Python wrapper library for [League Client API](https://developer.riotgames.com/docs/lol#game-client-api) that provides the possibility of sending any HTTP request to it.
+Icathia is an asynchronous Python wrapper library for [League Client API](https://developer.riotgames.com/docs/lol#league-client-api) that provides the possibility of sending any HTTP request to it.
 
 ### **Example of use**
 * main.py
